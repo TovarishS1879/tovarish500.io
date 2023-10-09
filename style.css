@@ -312,7 +312,7 @@
 }
 @media all and (max-width: 500px) and (min-height: 500px) and (orientation: portrait){
   .text_block{
-    height: 130vh;
+    height: 140vh;
   }
 }
 @media screen and (min-width: 801px) and (orientation: portrait){
